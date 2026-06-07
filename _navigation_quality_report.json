@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-07T05:46:30.634533Z",
+  "summary": {
+    "total_pages_with_permalink": 282,
+    "visible_pages": 241,
+    "hidden_pages": 41,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_index",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_military_flares_abb62f",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238",
+        "to": "ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "parent"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_military_flares_abb62f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a_index",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "ancestor"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "parent"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_military_flares_abb62f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_gimbal_infrared_glar_a1f3aa",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_index",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "ancestor"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "parent"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_military_flares_abb62f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_wind_data_33671a",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_index",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_majestic_12_document_d24852",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1",
+        "type": "child"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "ancestor"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238",
+        "type": "parent"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_military_flares_abb62f",
+        "type": "sibling"
+      },
+      {
+        "from": "ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5",
+        "to": "ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183",
+        "type": "sibling"
+      }
+    ]
+  }
+}

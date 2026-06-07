@@ -1,0 +1,1131 @@
+---
+level: 2
+basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
+parent_basename: ifos_-_causes_of_UFO_3ed238
+child_basenames:
+- ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973
+- ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_index
+- ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84
+- ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40
+- ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0
+- ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8
+sibling_basenames:
+- ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
+- ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
+- ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
+- ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
+- ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
+- ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
+- ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
+- ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
+- ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
+- ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
+- ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
+- ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
+- ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
+- ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
+- ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
+- ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
+- ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
+- ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
+- ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
+- ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
+- ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
+- ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
+- ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
+- ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
+- ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
+- ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
+- ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
+- ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
+- ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
+- ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
+- ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
+- ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
+- ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
+- ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
+- ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
+- ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
+- ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
+- ifos_-_causes_of_UFO_3ed238_wind_data_33671a
+- ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
+tags:
+- ifos-causes-of
+- nasa-study
+keywords:
+- ifos-causes-of
+- nasa-study
+affiliate_category: ifos-causes-of
+show_ads: true
+description: 'NASA''s UAP study frames the problem as evidence quality: better sensors, metadata and reporting are needed before firm claims can be made.'
+hero_summary: 'NASA''s UAP study frames the problem as evidence quality: better sensors, metadata and reporting are needed before firm claims can be made.'
+layout: default
+permalink: /nasa-study/
+sidebar_expanded_urls:
+- /ifos-causes-of/
+nav_short_title: NASA Study
+title: Why Better UFO Data Matters
+title_full: Why Better UFO Data Matters | IFOs
+display_title_short: NASA Study
+display_title: NASA Study
+heading_title: Why Better UFO Data Matters
+page_heading_title: Why Better UFO Data Matters
+source_count: 59
+infographic_count: 3
+planned_sections:
+- Sparse report problems
+- Data acquisition priorities
+- Scientific caution
+focal_unit_type: policy_intervention
+topic_lens: governance
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-06 23:05:28'
+parent_title: IFOs
+parent_permalink: /ifos-causes-of/
+parent_nav_short_title: IFOs
+ancestor_links:
+- basename: ifos_-_causes_of_UFO_3ed238
+  title: IFOs
+  permalink: /ifos-causes-of/
+  short_title: IFOs
+breadcrumb_links:
+- basename: ifos_-_causes_of_UFO_3ed238
+  title: IFOs
+  permalink: /ifos-causes-of/
+  short_title: IFOs
+sibling_links:
+- basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  permalink: /a-head-on-aircraft-can-look-like-a/
+  short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
+  heading_title: The Stationary Light That Is Moving
+- basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
+  title: AARO | Ifos Causes Of
+  permalink: /aaro/
+  short_title: AARO
+  heading_title: What Modern UAP Reviews Resolve
+- basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
+  title: Aircraft Lights | Ifos Causes Of
+  permalink: /aircraft-lights/
+  short_title: Aircraft Lights
+  heading_title: Why Ordinary Aircraft Look So Strange
+- basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
+  title: Atmosphere | Ifos Causes Of
+  permalink: /atmosphere/
+  short_title: Atmosphere
+  heading_title: When Weather Makes Shapes in the Sky
+- basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
+  title: Balloons | Ifos Causes Of
+  permalink: /balloons/
+  short_title: Balloons
+  heading_title: Why Balloons Become Flying Saucers
+- basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
+  title: Birds | Ifos Causes Of
+  permalink: /birds/
+  short_title: Birds
+  heading_title: How Birds Become Fast UFOs
+- basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
+  title: Blue Book | Ifos Causes Of
+  permalink: /blue-book/
+  short_title: Blue Book
+  heading_title: What Blue Book Teaches About IFOs
+- basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
+  title: Contrails | Ifos Causes Of
+  permalink: /contrails/
+  short_title: Contrails
+  heading_title: Why Jet Trails Glow Like UFOs
+- basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
+  title: Drones | Ifos Causes Of
+  permalink: /drones/
+  short_title: Drones
+  heading_title: When a Drone Becomes a UFO
+- basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
+  title: First Checks | Ifos Causes Of
+  permalink: /first-checks/
+  short_title: First Checks
+  heading_title: What to Check Before Calling It a UFO
+- basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
+  title: Flares | Ifos Causes Of
+  permalink: /flares/
+  short_title: Flares
+  heading_title: Why Flares Look Like Hovering Craft
+- basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
+  title: Flight Tracking | Ifos Causes Of
+  permalink: /flight-tracking/
+  short_title: Flight Tracking
+  heading_title: How Flight Data Solves UFO Sightings
+- basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
+  title: Hoaxes | Ifos Causes Of
+  permalink: /hoaxes/
+  short_title: Hoaxes
+  heading_title: When UFO Reports Are Manufactured
+- basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
+  title: Infrared | Ifos Causes Of
+  permalink: /infrared/
+  short_title: Infrared
+  heading_title: Why Infrared UFO Videos Mislead
+- basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
+  title: Insects | Ifos Causes Of
+  permalink: /insects/
+  short_title: Insects
+  heading_title: The Tiny Things Cameras Make Huge
+- basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
+  title: Lanterns | Ifos Causes Of
+  permalink: /lanterns/
+  short_title: Lanterns
+  heading_title: The Orange Lights That Start UFO Reports
+- basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
+  title: Lens Flare | Ifos Causes Of
+  permalink: /lens-flare/
+  short_title: Lens Flare
+  heading_title: When Cameras Invent Extra Lights
+- basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
+  title: Mass Sightings | Ifos Causes Of
+  permalink: /mass-sightings/
+  short_title: Mass Sightings
+  heading_title: Why Groups Can Share One Mistake
+- basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
+  title: Meteors | Ifos Causes Of
+  permalink: /meteors/
+  short_title: Meteors
+  heading_title: When Fireballs Become UFOs
+- basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
+  title: Missing Data | Ifos Causes Of
+  permalink: /missing-data/
+  short_title: Missing Data
+  heading_title: Unsolved Does Not Always Mean Strange
+- basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
+  title: Parallax | Ifos Causes Of
+  permalink: /parallax/
+  short_title: Parallax
+  heading_title: The Speed Illusion in UFO Footage
+- basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
+  title: Pilots | Ifos Causes Of
+  permalink: /pilots/
+  short_title: Pilots
+  heading_title: Why Pilots Can Misidentify UFOs
+- basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
+  title: Radar | Ifos Causes Of
+  permalink: /radar/
+  short_title: Radar
+  heading_title: When Radar Sees a UFO That Isnt There
+- basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
+  title: Reflections | Ifos Causes Of
+  permalink: /reflections/
+  short_title: Reflections
+  heading_title: The UFO Inside the Glass
+- basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
+  title: Rocket Plumes | Ifos Causes Of
+  permalink: /rocket-plumes/
+  short_title: Rocket Plumes
+  heading_title: The Strange Clouds Rockets Leave Behind
+- basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
+  title: Satellites | Ifos Causes Of
+  permalink: /satellites/
+  short_title: Satellites
+  heading_title: Why Satellites Surprise Night Watchers
+- basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
+  title: Searchlights | Ifos Causes Of
+  permalink: /searchlights/
+  short_title: Searchlights
+  heading_title: How Searchlights Paint UFOs in Clouds
+- basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
+  title: Sensor Operators | Ifos Causes Of
+  permalink: /sensor-operators/
+  short_title: Sensor Operators
+  heading_title: When Sensors Need Human Context
+- basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
+  title: Short Clips | Ifos Causes Of
+  permalink: /short-clips/
+  short_title: Short Clips
+  heading_title: Why Short UFO Videos Are Hard to Trust
+- basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
+  title: Size Errors | Ifos Causes Of
+  permalink: /size-errors/
+  short_title: Size Errors
+  heading_title: Why Honest Witnesses Misjudge UFOs
+- basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
+  title: Sky Charts | Ifos Causes Of
+  permalink: /sky-charts/
+  short_title: Sky Charts
+  heading_title: How to Check a UFO Against the Sky
+- basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
+  title: Stars | Ifos Causes Of
+  permalink: /stars/
+  short_title: Stars
+  heading_title: Why Stars Flash Like Machines
+- basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
+  title: Status Labels | Ifos Causes Of
+  permalink: /status-labels/
+  short_title: Status Labels
+  heading_title: UFO Does Not Mean Alien
+- basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
+  title: Strong Cases | Ifos Causes Of
+  permalink: /strong-cases/
+  short_title: Strong Cases
+  heading_title: What Makes a UFO Report Harder to Explain
+- basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
+  title: UK Files | Ifos Causes Of
+  permalink: /uk-files/
+  short_title: UK Files
+  heading_title: What the UK UFO Files Reveal
+- basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
+  title: Unresolved Cases | Ifos Causes Of
+  permalink: /unresolved-cases/
+  short_title: Unresolved Cases
+  heading_title: Why Some UFO Cases Stay Open
+- basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
+  title: Venus | Ifos Causes Of
+  permalink: /venus/
+  short_title: Venus
+  heading_title: Is That UFO Really Venus?
+- basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
+  title: Weather Records | Ifos Causes Of
+  permalink: /weather-records/
+  short_title: Weather Records
+  heading_title: Weather Clues That Explain Strange Lights
+- basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
+  title: Wind Data | Ifos Causes Of
+  permalink: /wind-data/
+  short_title: Wind Data
+  heading_title: Following a UFO With the Wind
+child_links:
+- basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8
+  title: Baseline library | NASA Study
+  permalink: /baseline-library/
+  short_title: Baseline library
+  heading_title: What normal skies look like to UAP sensors
+- basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0
+  title: Civilian reports | NASA Study
+  permalink: /civilian-reports/
+  short_title: Civilian reports
+  heading_title: What makes a UFO report useful?
+- basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84
+  title: Missing metadata | NASA Study
+  permalink: /missing-metadata/
+  short_title: Missing metadata
+  heading_title: Why missing metadata creates false UFO mysteries
+- basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40
+  title: Phone networks | NASA Study
+  permalink: /phone-networks/
+  short_title: Phone networks
+  heading_title: Could phones make UFO reports scientific?
+- basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973
+  title: Sensor artefacts | NASA Study
+  permalink: /sensor-artefacts/
+  short_title: Sensor artefacts
+  heading_title: When the UFO is inside the camera
+up_link:
+  basename: ifos_-_causes_of_UFO_3ed238
+  title: IFOs
+  permalink: /ifos-causes-of/
+  short_title: IFOs
+prev_link:
+  basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
+  title: Missing Data | Ifos Causes Of
+  permalink: /missing-data/
+  short_title: Missing Data
+  heading_title: Unsolved Does Not Always Mean Strange
+next_link:
+  basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
+  title: Parallax | Ifos Causes Of
+  permalink: /parallax/
+  short_title: Parallax
+  heading_title: The Speed Illusion in UFO Footage
+header:
+  og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview-social.jpg
+  preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview.webp
+image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview-social.jpg
+---
+
+## Introduction
+
+NASA’s 2023 UAP study is important to the IFO question because it reframes many UFO reports as a data-quality problem before they become a mystery problem. The study did not claim to solve famous cases or endorse exotic explanations. Instead, it argued that most existing UAP material is too sparse, inconsistent or poorly documented to support firm scientific conclusions, and that better sensors, calibration, metadata and reporting systems are needed before unusual reports can be separated reliably from aircraft, balloons, drones, [satellites]({{ 'satellites/' | relative_url }}), [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) and atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview.webp" | relative_url }}" alt="Overview image for NASA Study" loading="eager" decoding="sync" fetchpriority="high">
+That matters for identified flying objects because many IFOs are not identified by intuition alone. They are identified because investigators can compare a report with [flight tracks]({{ 'flight-tracks/' | relative_url }}), wind, satellite passes, sensor settings, camera geometry, weather and time-stamped location data. NASA’s central point was cautious but practical: if the evidence is weak, the honest answer is often not “alien” or “nothing happened”, but “we do not yet have the data needed to know”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+## Why NASA treated UAP as a data problem
+
+NASA announced its independent UAP study in 2022 with a limited purpose: identify what data existed, how future data should be collected, and how the agency’s scientific tools could help move the subject forward. The final report stressed that the study was not a re-investigation of historic incidents. Its task was closer to building a roadmap for future evidence than adjudicating old stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+This distinction is easy to miss. A dramatic video can look persuasive to a viewer while still being scientifically weak. Without [range]({{ 'range/' | relative_url }}), camera angle, precise time, sensor mode, calibration, weather and independent corroboration, an object’s apparent speed, size or behaviour may be badly misread. NASA’s report noted that UAP data often come from instruments not designed to detect the objects being reported, which makes calibration and metadata especially important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+For IFO analysis, this is not a bureaucratic detail. It is the difference between “a bright moving object” and “a balloon drifting with the wind at a known altitude”, or between “a fast object on [infrared]({{ 'infrared/' | relative_url }}) video” and “a distant object whose apparent motion is affected by camera movement and parallax”. A sighting can remain unidentified not because it is extraordinary, but because the information needed to test ordinary causes was never captured.
+
+NASA’s report also stated that the majority of UAP observations can be attributed to known human-made or natural phenomena, while a smaller number remain unresolved. That framing keeps the door open to genuine unknowns without treating every unresolved report as evidence of something exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-1-dark.svg" | relative_url }}" alt="NASA Study illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Sparse reports create false mysteries
+
+The most useful part of NASA’s study for ordinary UFO reports is its explanation of what is missing from many cases. The report identified recurring weaknesses: poor sensor calibration, lack of multiple measurements, missing sensor metadata and inadequate baseline data. These are not minor technical complaints. They are the exact gaps that make IFO identification harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+A sparse report may contain a sincere witness statement and even an image, yet still lack the facts needed to rule out common causes. Useful UAP data would ideally include:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* the precise time and location of the observation;
+* the observer’s direction of view and elevation angle;
+* the sensor or camera type, settings, field of view and observing mode;
+* weather, visibility, wind and cloud information;
+* nearby aircraft, drone, balloon, satellite and launch activity;
+* multiple independent observations from different positions;
+* enough duration and context to estimate distance, speed and trajectory.
+
+</div>
+
+NASA’s point was that metadata turns a sighting into an analysable event. Metadata means the information around the observation: when it happened, where it happened, how it was recorded, what the sensor was doing and what the surrounding conditions were. Without it, an image or [radar]({{ 'radar/' | relative_url }}) return may be intriguing but scientifically underpowered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+This is why many UFO reports fall into a frustrating middle ground. They cannot be confidently explained, but they also cannot support a strong claim. In IFO terms, the missing information prevents ordinary identifications from being tested. A balloon, bird, aircraft light, satellite, drone or reflection may be the best explanation, but the case can remain formally unresolved because the original report did not preserve the data needed to prove it.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+
+## Better sensors are not enough without calibration
+
+NASA did not simply call for more cameras. It called for more reliable observations. Calibration is the process that tells analysts how a sensor behaves, what errors it introduces and how its readings should be interpreted. The report emphasised that apparent UAP have sometimes been shown to be sensor artefacts once proper calibration and metadata were applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+That point is central to UFO misidentification. A sensor artefact can be a real recorded feature without being a real object in the sky. A camera can create glare, blooming, compression effects, lens reflections or tracking artefacts. Radar and infrared systems can also produce returns or displays that are easy to overinterpret when their limitations are not understood. Better standards help investigators distinguish a physical object from the way an instrument represents light, heat, motion or noise.
+
+NASA’s study also argued for multiple, well-calibrated sensors. One sensor can mislead; two or more independent sensors, especially from different viewpoints or modalities, can constrain what is actually happening. If a report has video, radar, weather data and independent visual observations, analysts can test whether the reported object moved like a balloon, aircraft, satellite or bird. If it has only a short clip without range or sensor settings, the case is far weaker.
+
+This is where the NASA approach is most useful for the wider public debate. It does not require dismissing witnesses. It requires separating a witness’s perception from the physical claim being made. Someone may accurately report seeing something strange while the available data still fail to establish distance, speed, size or origin.
+
+## Baseline data makes ordinary causes visible
+
+One of NASA’s more important recommendations was the need for baseline data: a record of what normal looks like in a given observing environment. The report noted that anomaly detection is difficult if analysts do not first understand the ordinary background. AARO had already begun studying what normal phenomena such as solar glint or balloons look like to military sensors, and NASA described that as an essential step before searching for the abnormal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+This is directly relevant to IFOs. A case may look unusual because the observer has never seen that ordinary thing from that angle, in that weather or through that sensor. Baseline libraries can show how common objects behave under confusing conditions: balloons drifting with wind, birds crossing infrared imagery, drones moving at low altitude, aircraft lights seen head-on, satellites flaring, Starlink trains crossing twilight skies, or reflections appearing to move with camera motion.
+
+AARO’s public material shows how this plays out in practice. Its official imagery page includes cases assessed with high confidence as balloons, including consumer-grade reflective foil balloons, based on shape, behaviour and correlation with wind speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> The 2024 ODNI and Department of Defence UAP report likewise said [AARO resolved cases]({{ 'aaro/' | relative_url }}) as prosaic objects including balloons, birds and uncrewed aircraft systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
+
+The scientific value is not just in closing individual cases. A well-built baseline helps investigators avoid treating ordinary clutter as anomalous. It also allows stronger cases to stand out more clearly, because they can be compared against a known library of conventional explanations rather than against vague impressions.
+
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-2-dark.svg" | relative_url }}" alt="NASA Study illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## NASA’s practical data priorities
+
+NASA’s report suggested several data-acquisition paths, but the common theme was standardisation. The agency’s proposed role was not to become a UFO hotline in the popular sense. It was to bring expertise in data curation, calibration, machine learning, open science and long-term scientific missions into a wider government effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+The priorities were practical rather than sensational.
+
+**Standardised reporting.** NASA noted that there was no standard federal system for civilian UAP reporting and that existing civilian channels were inadequate for drawing scientific conclusions. A standard report would need more than a narrative; it would need time, location, direction, sensor information and environmental context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+**Crowdsourced observations.** The report recommended exploring open-source smartphone-based systems that could collect images and sensor metadata from multiple observers. The value would not be a flood of blurry phone videos by themselves, but the possibility of synchronised, location-stamped and sensor-aware observations from many people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+**Earth-observing and environmental data.** NASA recognised that its current Earth-observing satellites are not usually designed to image small UAP events directly. Still, satellite data can help establish environmental conditions around reported events, and future systems may provide more useful contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+**Civilian airspace repositories.** The report argued that NASA is well placed to advise on repositories of civilian airspace data, while also warning that air traffic and radar systems are not always optimised for rigorous scientific UAP analysis. That caution is important: existing data can help, but it should not be treated as automatically definitive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+**Machine learning with better inputs.** NASA saw a role for artificial intelligence and machine learning, but only after better data exist. The report stated that UAP analysis is more limited by data quality than by the availability of analysis techniques. In other words, an algorithm cannot rescue a case if the original observation lacks calibration, metadata and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzHKxHnN7d0" title="NASA news conference on UFO report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzHKxHnN7d0" target="_blank" rel="noopener noreferrer">NASA news conference on UFO report</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 51.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzHKxHnN7d0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzHKxHnN7d0">Open on YouTube</a></p></div></div></div>
+
+## Why reporting stigma affects the evidence
+
+NASA also treated stigma as a data-loss problem. If pilots, [sensor operators]({{ 'sensor-operators/' | relative_url }}) or civilians avoid reporting unusual observations because they fear ridicule or career consequences, then the available record becomes selective and incomplete. The final report argued that NASA’s public trust and scientific culture could help destigmatise reporting while still encouraging scepticism and critical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+
+This is a delicate balance. Reducing stigma does not mean accepting unlikely explanations uncritically. It means making it easier for trained observers to report unusual events in a structured way, so that analysts can determine whether the cause was mundane, hazardous, anomalous or simply unknowable from the data. NASA officials also said the agency would work with the public and commercial pilots to collect broader data and contribute to a more reliable future UAP dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">Open source on rev.com.</span></span></span>
+
+For the IFO field, stigma can distort both sides of the evidence. Under-reporting can hide useful observations, including possible aviation-safety issues. Over-sensational reporting can flood the system with poorly documented claims. A good reporting standard avoids both extremes by making the report useful whether the final answer is a balloon, drone, aircraft, sensor artefact, weather phenomenon or genuinely unresolved event.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+
+## Scientific caution is the main takeaway
+
+The NASA study’s most important contribution was not a new list of strange cases. It was a governance model for handling uncertainty. The agency argued for a rigorous, evidence-based framework, better acquisition methods, systematic reporting and transparent analysis. That approach is slower than speculation, but it is also more useful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
+
+Scientific caution changes how UFO reports should be read. An unresolved case is not automatically a strong case. Sometimes it is unresolved because the available evidence is poor. A short video without range, a pilot report without independent sensor confirmation, or a radar return without calibration details may all be worth preserving, but they do not carry the same weight as a multi-sensor, time-stamped, well-documented event.
+
+The caution also cuts the other way. Better data standards do not assume that every report is trivial. They create the conditions for finding out. If an object truly showed behaviour outside known aircraft, drone, balloon, bird or atmospheric patterns, high-quality data would make that more visible, not less. The same process that identifies IFOs also protects genuinely unusual cases from being buried in noise.
+
+NASA’s UAP study therefore belongs squarely inside the causes of UFO reports. It explains why so many reports remain ambiguous, why many can later become IFOs, and why future progress depends less on dramatic testimony than on ordinary scientific discipline: calibrated instruments, complete metadata, multiple observations, baseline libraries, open reporting and a willingness to say “not enough data” when that is the most honest conclusion.
+
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-3-dark.svg" | relative_url }}" alt="NASA Study illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Better UFO Data Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Strong focus on evidence quality and scientific assessment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Highlights the role of credible data and witnesses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Promotes evidence-based reasoning and data quality.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+        </h4>
+        <p class="fr-book-author">By Avi Loeb</p>
+        
+        <p class="fr-book-desc">Examines how unusual observations should be investigated scientifically.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="nasa-study-why-better-ufo-data-matters-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how...</p></details>
+   Published: June 16, 2022  
+
+4. <a id="endnote-4"></a>
+   Source: en.wikisource.org  
+   Title: Responses to Statement of Task  
+   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+
+5. <a id="endnote-5"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+
+6. <a id="endnote-6"></a>
+   Source: earthdata.nasa.gov  
+   Link: [https://www.earthdata.nasa.gov/data/projects/machine-learning-project](https://www.earthdata.nasa.gov/data/projects/machine-learning-project)  
+
+7. <a id="endnote-7"></a>
+   Source: en.wikisource.org  
+   Title: Page:UAP Independent Study Team  
+   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29)  
+
+8. <a id="endnote-8"></a>
+   Source: rev.com  
+   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
+
+9. <a id="endnote-9"></a>
+   Source: en.wikisource.org  
+   Title: Page:UAP Independent Study Team  
+   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+
+10. <a id="endnote-10"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+
+11. <a id="endnote-11"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+
+12. <a id="endnote-12"></a>
+   Source: aaro.mil  
+   Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+
+13. <a id="endnote-13"></a>
+   Source: en.wikisource.org  
+   Title: Index:AARO Historical Record Report Volume 1 2024  
+   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+
+14. <a id="endnote-14"></a>
+   Source: rev.com  
+   Title: nasa holds first public meeting on ufos transcript  
+   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+
+15. <a id="endnote-15"></a>
+   Source: dni.gov  
+   Title: 4020 uap 2024  
+   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: thedebrief.org  
+   Title: nasas unidentified anomalous phenomena report key takeaways  
+   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: NASA UFO Press Conference  
+   Link: [http://www.youtube.com/watch?v=p4FiB0zHl4A](http://www.youtube.com/watch?v=p4FiB0zHl4A)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP independent study team report press conference NASA UAP Independent Study Report — Press Conference (September 14, 2023) Lies Above...</p></details>
+   Published: September 14, 2023  
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
+   Link: [http://www.youtube.com/watch?v=bQo08JRY0iM](http://www.youtube.com/watch?v=bQo08JRY0iM)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO Panel | NASA&#x27;s UFO Study Team Reveals Its Finding...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: NASA UFO Panel | NASA's UFO Study Team Reveals Its Finding  
+   Link: [http://www.youtube.com/watch?v=0CaHx6tTsKY](http://www.youtube.com/watch?v=0CaHx6tTsKY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Report — Press Conference (September 14, 2023)...</p></details>
+   Published: September 14, 2023  
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: NASA news conference on UFO report  
+   Link: [http://www.youtube.com/watch?v=PzHKxHnN7d0](http://www.youtube.com/watch?v=PzHKxHnN7d0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: aiaa.org  
+   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+
+22. <a id="endnote-22"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SkyNewsAustralia/posts/an-astronomy-professor-has-revealed-that-artificial-intelligence-could-help-expe/702278411929760/](https://www.facebook.com/SkyNewsAustralia/posts/an-astronomy-professor-has-revealed-that-artificial-intelligence-could-help-expe/702278411929760/)  
+
+23. <a id="endnote-23"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/](https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/)  
+
+24. <a id="endnote-24"></a>
+   Source: zhihu.com  
+   Link: [https://www.zhihu.com/en/answer/3211845828](https://www.zhihu.com/en/answer/3211845828)  
+
+25. <a id="endnote-25"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/Reuters/posts/nasa-on-thursday-said-it-has-named-a-new-director-of-research-into-what-the-gove/788839076440160/](https://www.facebook.com/Reuters/posts/nasa-on-thursday-said-it-has-named-a-new-director-of-research-into-what-the-gove/788839076440160/)  
